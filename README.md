@@ -31,6 +31,10 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im Lehrgebäude des [UKM](
 
 ## Bühnenprogramme
 
+### 2020: Bad Day (Video-Projekt)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e_4C6dB5QzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2019: Coppelia
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM4IdnF6_yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
