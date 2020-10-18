@@ -39,6 +39,12 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im Lehrgebäude des [UKM](
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-6i1apTchA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Merch & Swag
+
+![](https://i.ibb.co/MMmKMHp/Whats-App-Image-2020-10-18-at-21-01-54.jpg ':size=30%')
+
+Erscheinen Sie, sonst weinen Sie!
+
 ## Impressum
 
 Vorstand des Performance Teams:
