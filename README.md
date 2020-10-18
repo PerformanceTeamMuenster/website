@@ -40,3 +40,14 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im Lehrgebäude des [UKM](
 ### 2018: Momo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-6i1apTchA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Impressum
+
+Vorstand des Performance Teams:
+- Yasemin Töre (Vorsitzende)
+- Maike von Bobart (1. Stellvertretende Vorsitzende)
+- Alina Griebel (2. Stellvertretende Vorsitzende)
+- Marie-Therese Niemann (Schatzmeisterin)
+
+### Kontakt
+E-Mail: [performanceteam@uni-muenster.de](mailto:performanceteam@uni-muenster.de)
