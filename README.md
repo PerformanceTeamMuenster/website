@@ -27,6 +27,10 @@ Nur ganz kurz: wir sind
 - cool
 - witzig
 
+## Unsere Trainingszeiten
+
+Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im Lehrgebäude des [UKM](http://www.ukm.de).
+
 ## Bühnenprogramme
 
 ### 2019: Coppelia
