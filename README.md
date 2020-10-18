@@ -2,9 +2,9 @@
 
 ![][logo]
 
-![E-Mail][mailicon ':size=20x15'] **[performanceteam@uni-muenster.de][mail]**  
-![Instagram][instaicon ':size=20x20'] **[@performance\_team\_muenster][instagram]**  
-![Facebook][fbicon ':size=20x20'] **[Performance Team Münster][facebook]**
+![E-Mail][mailicon] ':size=20x15' **[performanceteam@uni-muenster.de][mail]**  
+![Instagram][instaicon] ':size=20x20' **[@performance\_team\_muenster][instagram]**  
+![Facebook][fbicon] ':size=20x20' **[Performance Team Münster][facebook]**
 
 ## Über unser Team
 Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [Universität Münster][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
@@ -48,7 +48,7 @@ Man beachte außerdem die einwandfreie Locke. Ich will [das](https://www.dm.de/b
 - Alina Griebel (2. Stellvertretende Vorsitzende)
 - Marie-Therese Niemann (Schatzmeisterin)
 
-![E-Mail][mailicon ':size=20x15'] **[performanceteam@uni-muenster.de][mail]**  
+![E-Mail][mailicon] ':size=20x15' **[performanceteam@uni-muenster.de][mail]**  
 Überwasserstraße 31-33  
 48143 Münster
 
