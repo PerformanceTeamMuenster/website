@@ -12,7 +12,7 @@ Seit 2017 trainieren wir ein- bis zweimal wöchentlich und sind dabei zu einem s
 
 ## Veranstaltungen
 
-<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=2&amp;bgcolor=%23F6BF26&amp;ctz=Europe%2FBerlin&amp;src=cGJsOXJudDM4c2h2MTFhOGQxcDhxNDA0YWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=1&amp;showNav=1&amp;showTitle=0" style="border:solid 1px #777" width="500" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=cGJsOXJudDM4c2h2MTFhOGQxcDhxNDA0YWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0" style="border-width:0" width="500" height="400" frameborder="0" scrolling="no"></iframe>
 
 Diesen Kalender kannst du in deinen Kalender [importieren](https://calendar.google.com/calendar/ical/pbl9rnt38shv11a8d1p8q404ac%40group.calendar.google.com/private-4d3bf9a42eefdcf076f25d1c1df39032/basic.ics).
 
