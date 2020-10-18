@@ -21,9 +21,11 @@ Nur ganz kurz: wir sind
 
 ## Unsere Trainingszeiten
 
-Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im Lehrgebäude des [UKM](http://www.ukm.de).
+Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [Lehrgebäude](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
 
-## Bühnenprogramme
+## Performance und Projekte
+
+Mehr Videos gibt's in unserer [YouTube-Playlist](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
 
 ### 2020: Bad Day (Video-Projekt)
 
@@ -53,7 +55,7 @@ Man beachte außerdem die einwandfreie Locke. Ich will [das](https://www.dm.de/b
 - Alina Griebel (2. Stellvertretende Vorsitzende)
 - Marie-Therese Niemann (Schatzmeisterin)
 
-E-Mail: [performanceteam@uni-muenster.de](mail)
+E-Mail: [performanceteam@uni-muenster.de](mail)  
 Überwasserstraße 31-33  
 48143 Münster
 
