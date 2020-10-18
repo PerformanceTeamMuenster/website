@@ -18,7 +18,14 @@ Facebook: **[Performance Team Münster][facebook]**
 
 ## Wer wir sind
 
-*Inhalte folgen...*
+Nur ganz kurz: wir sind
+
+- hungrig
+  - Hallo
+  - Welt
+- müde
+- cool
+- witzig
 
 ## Bühnenprogramme
 
