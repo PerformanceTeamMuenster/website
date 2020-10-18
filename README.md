@@ -18,17 +18,23 @@ Diesen Kalender kannst du in deinen Kalender [importieren](https://calendar.goog
 
 ### Regelmäßige Trainings
 Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [Lehrgebäude](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
+
 ### Workshops und Aktionen
+
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. 
+
 ### Auftritte
 Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
 
 ## Projektarchiv
 Mehr Videos gibt's in unserer [YouTube-Playlist](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
+
 ### 2020: Bad Day
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e_4C6dB5QzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2019: Coppélia
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM4IdnF6_yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 2018: Momo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-6i1apTchA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
