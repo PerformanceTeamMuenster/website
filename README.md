@@ -8,19 +8,13 @@ E-Mail: **[performanceteam@uni-muenster.de][mail]**
 Instagram: **[@performance\_team\_muenster][instagram]**  
 Facebook: **[Performance Team Münster][facebook]**
 
-[wwu]: https://wwu.de/
-[logo]: https://i.imgur.com/Zv1LXxa.png
-[mail]: mailto:performanceteam@uni-muenster.de
-[instagram]: https://www.instagram.com/performance_team_muenster
-[facebook]: https://www.facebook.com/Performance-Team-M%C3%BCnster-Ballett-und-Lyrical-Dance-104566531110275
-
 ## Wer wir sind
 
 Nur ganz kurz: wir sind
 
-- hungrig
+- hungrig  
   - Hallo
-  - Welt
+  - Welt  
 - müde
 - cool
 - witzig
@@ -51,13 +45,20 @@ Hier sehen Sie Bilder glücklicher Kunden **<3**
 
 Man beachte außerdem die einwandfreie Locke. Ich will [das](https://www.dm.de/balea-professional-haarbalsam-winter-protect-300-ml-p4058172004001.html) auch 
 
-## Impressum
+## Kontakt und Impressum
 
-Vorstand des Performance Teams:
+[Vorstand des Performance Teams](mailto:vorstand.performanceteam@uni-muenster.de):
 - Yasemin Töre (Vorsitzende)
 - Maike von Bobart (1. Stellvertretende Vorsitzende)
 - Alina Griebel (2. Stellvertretende Vorsitzende)
 - Marie-Therese Niemann (Schatzmeisterin)
 
-### Kontakt
-E-Mail: [performanceteam@uni-muenster.de](mailto:performanceteam@uni-muenster.de)
+E-Mail: [performanceteam@uni-muenster.de](mail)
+Überwasserstraße 31-33  
+48143 Münster
+
+[wwu]: https://wwu.de/
+[logo]: https://i.imgur.com/Zv1LXxa.png
+[mail]: mailto:performanceteam@uni-muenster.de
+[instagram]: https://www.instagram.com/performance_team_muenster
+[facebook]: https://www.facebook.com/Performance-Team-M%C3%BCnster-Ballett-und-Lyrical-Dance-104566531110275
