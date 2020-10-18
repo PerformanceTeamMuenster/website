@@ -47,7 +47,9 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im Lehrgebäude des [UKM](
 
 [![](https://i.ibb.co/MMmKMHp/Whats-App-Image-2020-10-18-at-21-01-54.jpg ':size=30%')](https://shop.spreadshirt.de/performance-team-muenster/)
 
-Erscheinen Sie, sonst weinen Sie!
+Hier sehen Sie Bilder glücklicher Kunden **<3**
+
+Man beachte außerdem die einwandfreie Locke. Ich will [das](https://www.dm.de/balea-professional-haarbalsam-winter-protect-300-ml-p4058172004001.html) auch 
 
 ## Impressum
 
