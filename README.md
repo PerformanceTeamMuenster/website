@@ -1,5 +1,3 @@
-![](https://i.ibb.co/ZRQh4rN/Sonne.jpg ':size=100%')
-
 # Performance Team Münster
 
 Ballett und Lyrical Dance an der [WWU Münster][wwu].
