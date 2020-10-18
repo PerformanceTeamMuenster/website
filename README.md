@@ -8,14 +8,24 @@
 
 ## Über unser Team
 
-Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [Uni Münster][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen. Wir trainieren seit 2017 ein- bis zweimal wöchentlich und sind dabei zu einem starken Team zusammengewachsen.
-Gemeinsam nehmen wir an Tanzwettbewerben teil, veranstalten Workshops zu verschiedenen Tanzstilen und organisieren eigene Aufführungen.
+Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [Uni Münster][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
+Seit 2017 trainieren wir ein- bis zweimal wöchentlich und sind dabei zu einem starken Team zusammengewachsen. Gemeinsam nehmen wir an Tanzwettbewerben teil, veranstalten Workshops zu verschiedenen Tanzstilen und organisieren eigene Aufführungen.
 
-## Unsere Trainingszeiten
+## Veranstaltungen
+
+### Regelmäßige Trainings
 
 Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [Lehrgebäude](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
 
-## Performance und Projekte
+### Workshops und Aktionen
+
+tba
+
+### Auftritte
+
+Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
+
+## Projektarchiv
 
 Mehr Videos gibt's in unserer [YouTube-Playlist](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
 
@@ -31,9 +41,11 @@ Mehr Videos gibt's in unserer [YouTube-Playlist](https://www.youtube.com/playlis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-6i1apTchA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Merch & Swag
+## Kollektion
 
 [![](https://i.ibb.co/MMmKMHp/Whats-App-Image-2020-10-18-at-21-01-54.jpg ':size=30%')](https://shop.spreadshirt.de/performance-team-muenster/)
+
+In unserem [Spreadshirt-Shop](https://shop.spreadshirt.de/performance-team-muenster/) gibt es unsere selbstdesignten Team- und Tanz-Shirts.
 
 Hier sehen Sie Bilder glücklicher Kunden **<3**
 
