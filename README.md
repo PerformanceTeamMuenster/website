@@ -5,8 +5,8 @@ Ballett und Lyrical Dance an der [WWU Münster][wwu].
 ![][logo]
 
 E-Mail: **[performanceteam@uni-muenster.de][mail]**  
-Instagram: **[@performance\_team\_muenster][instagram]**  
-Facebook: **[Performance Team Münster][facebook]**
+![Instagram](https://i.ibb.co/vkByGxG/F7-B7569-A-EBA1-4-ED9-8-D13-80-F9-FEC94116.png ':size=30x30') **[@performance\_team\_muenster][instagram]**  
+![Facebook](https://i.ibb.co/8PHh8kR/1-DDA4-CC8-CADD-424-A-A49-E-141-B8-DD488-B0.png ':size=30x30') **[Performance Team Münster][facebook]**
 
 ## Wer wir sind
 
