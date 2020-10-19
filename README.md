@@ -43,13 +43,8 @@ Du kannst jederzeit in eins unserer Trainings schnuppern oder unsere Workshops b
 Um Teil unseres Teams und Mitglied der Hochschulgruppe zu werden, kannst du [**hier**](https://forms.gle/MDPibjD5nWFRdeWEA) ein Formular ausfüllen. Wenn du an der Universität Münster studierst, bist du dann Mitglied, als Nicht-Student\*in wirst du so Ehrenmitglied.
 
 ## Kollektion
-[![](https://i.ibb.co/MMmKMHp/Whats-App-Image-2020-10-18-at-21-01-54.jpg ':size=30%')](https://shop.spreadshirt.de/performance-team-muenster/)
 
 In unserem [Spreadshirt-Shop](https://shop.spreadshirt.de/performance-team-muenster/) gibt es unsere selbstdesignten Team- und Tanz-Shirts.
-
-Hier sehen Sie Bilder glücklicher Kunden **<3**
-
-Man beachte außerdem die einwandfreie Locke. Ich will [das](https://www.dm.de/balea-professional-haarbalsam-winter-protect-300-ml-p4058172004001.html) auch 
 
 ## Kontakt und Impressum
 
