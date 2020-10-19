@@ -23,11 +23,10 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [Lehrgebäude](https://
 
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. 
 
-### ![](https://i.ibb.co/ByDzV9J/Auftritte-Banner-Breit-mit-Schrift.png)
-
 Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
 
-## Projektarchiv
+## ![](https://i.ibb.co/q9jp4PP/Vergangene-Projekte-Banner.png)
+
 Mehr Videos gibt's in unserer [YouTube-Playlist](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
 
 ### 2020: Bad Day
