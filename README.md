@@ -23,6 +23,8 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [Lehrgebäude](https://
 
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. 
 
+!(<a href="https://ibb.co/jryBYRq"><img src="https://i.ibb.co/VqgrGmb/Auftritte-Banner.png" alt="Auftritte-Banner" border="0"></a>)
+
 ### Auftritte
 Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
 
