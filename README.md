@@ -23,6 +23,8 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](http
 
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. 
 
+![Testbanner](https://i.ibb.co/6wB2QWX/Viele-Bilder-Banner-Breitblaulila.png)
+
 ### Auftritte
 Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
 
