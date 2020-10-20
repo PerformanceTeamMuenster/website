@@ -29,14 +29,10 @@ Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir h
 ## ![Vergangene Projekte](https://i.ibb.co/q9jp4PP/Vergangene-Projekte-Banner.png)
 
 Mehr Videos gibt's in unserer [**YouTube-Playlist**](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
-
-**2020: Bad Day**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e_4C6dB5QzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**2019: Coppélia**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM4IdnF6_yY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**2018: Momo**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-6i1apTchA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Mitmachen
