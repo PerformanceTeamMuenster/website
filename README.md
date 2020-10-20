@@ -19,6 +19,8 @@ Unsere Termine kannst du in deinen Kalender [**importieren**](https://calendar.g
 ### Regelmäßige Trainings
 Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
 
+![Testbanner](https://i.ibb.co/KDL2DT0/Viele-Bilder-Banner-Breithellfreundlich.png)
+
 ### Workshops und Aktionen
 
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. 
