@@ -7,17 +7,17 @@
 ![Facebook][fbicon] **[Performance Team Münster][facebook]**
 
 ## Über unser Team
-Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [Universität Münster][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
+Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [**Universität Münster**][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
 Seit 2017 trainieren wir ein- bis zweimal wöchentlich und sind dabei zu einem starken Team zusammengewachsen. Gemeinsam nehmen wir an Tanzwettbewerben teil, veranstalten Workshops zu verschiedenen Tanzstilen und organisieren eigene Aufführungen.
 
 ## Veranstaltungen
 
 <iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=cGJsOXJudDM4c2h2MTFhOGQxcDhxNDA0YWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0" style="border-width:0" width="500" height="400" frameborder="0" scrolling="no"></iframe>
 
-Unsere Termine kannst du in deinen Kalender [importieren](https://calendar.google.com/calendar/ical/pbl9rnt38shv11a8d1p8q404ac%40group.calendar.google.com/private-4d3bf9a42eefdcf076f25d1c1df39032/basic.ics).
+Unsere Termine kannst du in deinen Kalender [**importieren**](https://calendar.google.com/calendar/ical/pbl9rnt38shv11a8d1p8q404ac%40group.calendar.google.com/private-4d3bf9a42eefdcf076f25d1c1df39032/basic.ics).
 
 ### Regelmäßige Trainings
-Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [Lehrgebäude](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
+Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
 
 ### Workshops und Aktionen
 
@@ -28,7 +28,7 @@ Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir h
 
 ## ![](https://i.ibb.co/q9jp4PP/Vergangene-Projekte-Banner.png)
 
-Mehr Videos gibt's in unserer [YouTube-Playlist](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
+Mehr Videos gibt's in unserer [**YouTube-Playlist**](https://www.youtube.com/playlist?list=PLD8D9VXvxukrdZEMA4fiPyoTTfHrgyUfW).
 
 ### 2020: Bad Day
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e_4C6dB5QzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,7 +45,7 @@ Um Teil unseres Teams und Mitglied der Hochschulgruppe zu werden, kannst du [**h
 
 ## Kollektion
 
-In unserem [Spreadshirt-Shop](https://shop.spreadshirt.de/performance-team-muenster/) gibt es unsere selbstdesignten Team- und Tanz-Shirts.
+In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-muenster/) gibt es unsere selbstdesignten Team- und Tanz-Shirts.
 
 ## Kontakt und Impressum
 
