@@ -39,6 +39,10 @@ Mehr Videos gibt's in unserer [**YouTube-Playlist**](https://www.youtube.com/pla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-6i1apTchA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Galerie
+
+<a href="https://ibb.co/1zx9skF"><img src="https://i.ibb.co/1zx9skF/Hochschulsportschau-Mnster-2019-Performance-Team-Ballett-und-Lyrical-Dance.jpg" alt="Hochschulsportschau-Mnster-2019-Performance-Team-Ballett-und-Lyrical-Dance" border="0"></a> <a href="https://ibb.co/5W5qKsY"><img src="https://i.ibb.co/5W5qKsY/82998941-3381463185204454-6056402056321695744-o.jpg" alt="82998941-3381463185204454-6056402056321695744-o" border="0"></a> <a href="https://ibb.co/v1JzmQZ"><img src="https://i.ibb.co/v1JzmQZ/IMG-20180324-WA0003.jpg" alt="IMG-20180324-WA0003" border="0"></a>
+
 ## Mitmachen
 Du kannst jederzeit in eins unserer Trainings schnuppern oder unsere Workshops besuchen.  
 Um Teil unseres Teams und Mitglied der Hochschulgruppe zu werden, kannst du [**hier**](https://forms.gle/MDPibjD5nWFRdeWEA) ein Formular ausfüllen. Wenn du an der Universität Münster studierst, bist du dann Mitglied, als Nicht-Student\*in wirst du so Ehrenmitglied.
