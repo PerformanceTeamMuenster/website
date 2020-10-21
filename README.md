@@ -41,7 +41,7 @@ Mehr Videos gibt's in unserer [**YouTube-Playlist**](https://www.youtube.com/pla
 
 ### Galerie
 
-<a href="https://ibb.co/1zx9skF"><img src="https://i.ibb.co/1zx9skF/Hochschulsportschau-Mnster-2019-Performance-Team-Ballett-und-Lyrical-Dance.jpg" alt="Hochschulsportschau-Mnster-2019-Performance-Team-Ballett-und-Lyrical-Dance" border="0"></a> <a href="https://ibb.co/5W5qKsY"><img src="https://i.ibb.co/5W5qKsY/82998941-3381463185204454-6056402056321695744-o.jpg" alt="82998941-3381463185204454-6056402056321695744-o" border="0"></a> <a href="https://ibb.co/v1JzmQZ"><img src="https://i.ibb.co/v1JzmQZ/IMG-20180324-WA0003.jpg" alt="IMG-20180324-WA0003" border="0"></a>
+<a href="https://ibb.co/1zx9skF"><img src="https://i.ibb.co/1zx9skF/Hochschulsportschau-Mnster-2019-Performance-Team-Ballett-und-Lyrical-Dance.jpg" alt="Hochschulsportschau-Mnster-2019-Performance-Team-Ballett-und-Lyrical-Dance" border="0"></a> <a href="https://ibb.co/5W5qKsY"><img src="https://i.ibb.co/5W5qKsY/82998941-3381463185204454-6056402056321695744-o.jpg" alt="82998941-3381463185204454-6056402056321695744-o" border="0"></a> <a href="https://ibb.co/v1JzmQZ"><img src="https://i.ibb.co/v1JzmQZ/IMG-20180324-WA0003.jpg" alt="IMG-20180324-WA0003" border="0"></a> <a href="https://ibb.co/dtWzmGR"><img src="https://i.ibb.co/dtWzmGR/IMG-1936-2.jpg" alt="IMG-1936-2" border="0"></a>
 
 ## Mitmachen
 Du kannst jederzeit in eins unserer Trainings schnuppern oder unsere Workshops besuchen.  
