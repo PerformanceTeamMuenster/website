@@ -10,7 +10,7 @@
 Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [**Universität Münster**][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
 Seit 2017 trainieren wir ein- bis zweimal wöchentlich und sind dabei zu einem starken Team zusammengewachsen. Gemeinsam nehmen wir an Tanzwettbewerben teil, veranstalten Workshops zu verschiedenen Tanzstilen und organisieren eigene Aufführungen.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F104566531110275%2Fphotos%2Fa.154322496134678%2F154322499468011%2F&show_text=false&width=552&height=825&appId" height="825" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F104566531110275%2Fphotos%2Fa.154322496134678%2F154322499468011%2F&show_text=false&width=552&height=825&appId" height="400" style="border:none;overflow:auto" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## Veranstaltungen
 
