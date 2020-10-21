@@ -51,6 +51,8 @@ Um Teil unseres Teams und Mitglied der Hochschulgruppe zu werden, kannst du [**h
 
 In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-muenster/) gibt es unsere selbstdesignten Team- und Tanz-Shirts.
 
+<a href="https://ibb.co/mvCLkm7"><img src="https://i.ibb.co/mvCLkm7/IMG-4640.png" alt="IMG-4640" border="0"></a> <a href="https://ibb.co/DKY4nBS"><img src="https://i.ibb.co/DKY4nBS/3a1b0393-4e7f-4509-b335-1911007b7fc1-2.jpg" alt="3a1b0393-4e7f-4509-b335-1911007b7fc1-2" border="0"></a>
+
 ## Kontakt und Impressum
 
 [Vorstand des Performance Teams](mailto:vorstand.performanceteam@uni-muenster.de):
