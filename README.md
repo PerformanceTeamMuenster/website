@@ -10,7 +10,7 @@
 Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [**Universität Münster**][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
 Seit 2017 trainieren wir ein- bis zweimal wöchentlich und sind dabei zu einem starken Team zusammengewachsen. Gemeinsam nehmen wir an Tanzwettbewerben teil, veranstalten Workshops zu verschiedenen Tanzstilen und organisieren eigene Aufführungen.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F104566531110275%2Fphotos%2Fa.154322496134678%2F154322499468011%2F&show_text=false&width=552&height=400&appId" width="552" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+![Testbanner](https://i.ibb.co/KDL2DT0/Viele-Bilder-Banner-Breithellfreundlich.png)
 
 ## Veranstaltungen
 
@@ -21,15 +21,11 @@ Unsere Termine kannst du in deinen Kalender [**importieren**](https://calendar.g
 ### Regelmäßige Trainings
 Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
 
-![Testbanner](https://i.ibb.co/KDL2DT0/Viele-Bilder-Banner-Breithellfreundlich.png)
-
 ### Workshops und Aktionen
 
-Am 28.10. und 04.11. gibt es die Möglichkeit, kostenlos in unser Training zu schnuppern. Wenn du bei den **Schnupperstunden** dabei sein möchtest, registriere dich einfach in [**diesem Formular**](https://forms.gle/UyuXNFUgTNX4GhJ37).
+Am **28.10. und 04.11.** gibt es die Möglichkeit, kostenlos in unser Training zu schnuppern. Wenn du bei den **Schnupperstunden** dabei sein möchtest, registriere dich einfach in [**diesem Formular**](https://forms.gle/UyuXNFUgTNX4GhJ37).
 
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
-
-![Testbanner](https://i.ibb.co/6wB2QWX/Viele-Bilder-Banner-Breitblaulila.png)
 
 ### Auftritte
 Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
@@ -68,6 +64,8 @@ In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-m
 ![E-Mail][mailicon] **[performanceteam@uni-muenster.de][mail]**  
 Überwasserstraße 31-33  
 48143 Münster
+
+![Testbanner](https://i.ibb.co/6wB2QWX/Viele-Bilder-Banner-Breitblaulila.png)
 
 [wwu]: https://wwu.de/
 [logo]: https://i.imgur.com/Zv1LXxa.png
