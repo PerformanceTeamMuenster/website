@@ -25,7 +25,9 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](http
 
 ### Workshops und Aktionen
 
-Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. 
+Am 28.10. und 04.11. gibt es die Möglichkeit, kostenlos in unser Training zu schnuppern. Wenn du bei den **Schnupperstunden** dabei sein möchtest, registriere dich einfach in [**diesem Formular**](https://forms.gle/UyuXNFUgTNX4GhJ37).
+
+Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
 
 ![Testbanner](https://i.ibb.co/6wB2QWX/Viele-Bilder-Banner-Breitblaulila.png)
 
@@ -53,7 +55,7 @@ Um Teil unseres Teams und Mitglied der Hochschulgruppe zu werden, kannst du [**h
 
 In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-muenster/) gibt es unsere selbstdesignten Team- und Tanz-Shirts.
 
-<a href="https://ibb.co/tsR8y3j"><img src="https://i.ibb.co/tsR8y3j/IMG-4689.png" alt="IMG-4689" border="0"></a> <a href="https://ibb.co/mvCLkm7"><img src="https://i.ibb.co/mvCLkm7/IMG-4640.png" alt="IMG-4640" border="0" width="19%"></a> <a href="https://ibb.co/DKY4nBS"><img src="https://i.ibb.co/DKY4nBS/3a1b0393-4e7f-4509-b335-1911007b7fc1-2.jpg" alt="3a1b0393-4e7f-4509-b335-1911007b7fc1-2" border="0" width="19%"></a>
+<a href="https://ibb.co/tsR8y3j"><img src="https://i.ibb.co/tsR8y3j/IMG-4689.png" alt="IMG-4689" border="0" width="19%"></a> <a href="https://ibb.co/mvCLkm7"><img src="https://i.ibb.co/mvCLkm7/IMG-4640.png" alt="IMG-4640" border="0" width="19%"></a> <a href="https://ibb.co/DKY4nBS"><img src="https://i.ibb.co/DKY4nBS/3a1b0393-4e7f-4509-b335-1911007b7fc1-2.jpg" alt="3a1b0393-4e7f-4509-b335-1911007b7fc1-2" border="0" width="19%"></a>
 
 ## Kontakt und Impressum
 
