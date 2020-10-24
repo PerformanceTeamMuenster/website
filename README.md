@@ -25,6 +25,8 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](http
 
 Am **28.10. und 04.11.** gibt es die Möglichkeit, kostenlos in unser Training zu schnuppern. Wenn du bei den **Schnupperstunden** dabei sein möchtest, registriere dich einfach in [**diesem Formular**](https://forms.gle/UyuXNFUgTNX4GhJ37).
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https://www.facebook.com/events/269810394351549/" width="552" height="825" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
 
 ### Auftritte
