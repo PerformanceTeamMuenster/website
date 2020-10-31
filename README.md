@@ -66,6 +66,7 @@ In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-m
 Überwasserstraße 31-33  
 48143 Münster
 
+[**Datenschutzerklärung**][datenschutz]
 
 [wwu]: https://wwu.de/
 [logo]: https://i.imgur.com/Zv1LXxa.png
@@ -75,3 +76,4 @@ In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-m
 [mailicon]: https://i.ibb.co/GVRfPdk/7-E7-F8386-14-C4-4632-B0-B7-338-A37227-E1-C.png ':size=20x15'
 [fbicon]: https://i.ibb.co/8PHh8kR/1-DDA4-CC8-CADD-424-A-A49-E-141-B8-DD488-B0.png ':size=20x20'
 [instaicon]: https://i.ibb.co/vkByGxG/F7-B7569-A-EBA1-4-ED9-8-D13-80-F9-FEC94116.png ':size=20x20'
+[datenschutz]: https://performanceteammuenster.github.io/website/Datenschutzerkl%C3%A4rung.html
