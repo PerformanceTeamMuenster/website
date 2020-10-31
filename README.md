@@ -66,7 +66,9 @@ In unserem [**Spreadshirt-Shop**](https://shop.spreadshirt.de/performance-team-m
 Überwasserstraße 31-33  
 48143 Münster
 
-### [Datenschutzerklärung][datenschutz]
+### Datenschutzerklärung
+
+[Datenschutzerklärung][datenschutz]
 
 [wwu]: https://wwu.de/
 [logo]: https://i.imgur.com/Zv1LXxa.png
