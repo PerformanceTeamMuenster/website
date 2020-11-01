@@ -1,6 +1,6 @@
-&copy; [Performance Team Münster](/)
+&copy; [Performance Team Münster](index.html)
 
-[Kontakt und Impressum](#Kontakt_und_Impressum) - [Datenschutzerklärung](Datenschutzerklärung.html)
+[Kontakt und Impressum](#Kontakt) - [Datenschutzerklärung](Datenschutzerklärung.html)
 
 Orchestrated by [md-party][mdp]
 
