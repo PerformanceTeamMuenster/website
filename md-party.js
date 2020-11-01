@@ -5,7 +5,7 @@ const sd = new showdown.Converter({
     strikethrough: true,
     tables: true,
     simpleLineBreaks: true,
-    openLinksInNewWindow: true,
+    openLinksInNewWindow: false,
 });
 
 // Utility methods
