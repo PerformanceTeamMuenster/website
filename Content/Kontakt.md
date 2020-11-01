@@ -1,6 +1,6 @@
 # Kontakt und Impressum
 
-[Vorstand des Performance Teams](mailto:vorstand.performanceteam@uni-muenster.de):
+Vorstand des Performance Teams:
 - Yasemin Töre (Vorsitzende)
 - Maike von Bobart (1. Stellvertretende Vorsitzende)
 - Alina Griebel (2. Stellvertretende Vorsitzende)
