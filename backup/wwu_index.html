@@ -1,0 +1,40 @@
+
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title></title>
+    </head>
+    <body>
+
+        <script src="https://cdn.jsdelivr.net/gh/memowe/md-party@0.1/dist/md-party.js"></script>
+        <script>
+            MDParty([
+                'Performance Team Münster',
+                'Veranstaltungen',
+                'Vergangene Projekte',
+                'Mitmachen',
+                'Kollektion',
+                'Kontakt',
+            ], {
+                'title': 'Performance Team Münster',
+                'fetchPrefix': 'https://raw.githubusercontent.com/PerformanceTeamMuenster/website/master',
+                'pagesPrefix': 'Content',
+                'primary-color': '#732847',
+                'secondary-color': '#d4c5db',
+                'secondary-light-color': '#e7daed',
+            });
+        </script>
+
+        <style>
+            main iframe {
+                max-width: 100%;
+                margin: .3em 0;
+            }
+
+            main p > img, main p > a > img {
+                margin: .2em;
+            }
+        </style>
+    </body>
+</html>
