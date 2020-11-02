@@ -15,5 +15,5 @@ Vorstand des Performance Teams:
 [Datenschutzerklärung][datenschutz]
 
 [mailicon]: https://i.ibb.co/GVRfPdk/7-E7-F8386-14-C4-4632-B0-B7-338-A37227-E1-C.png =20x15
-[datenschutz]: Datenschutzerkl%C3%A4rung.html
+[datenschutz]: https://PerformanceTeamMuenster.github.io/website/Datenschutzerklärung.html
 [mail]: mailto:performanceteam@uni-muenster.de
