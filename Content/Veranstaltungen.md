@@ -1,0 +1,20 @@
+# Veranstaltungen
+
+<iframe src="https://calendar.google.com/calendar/embed?height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FBerlin&amp;src=cGJsOXJudDM4c2h2MTFhOGQxcDhxNDA0YWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0" style="border-width:0" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+
+Unsere Termine kannst du in deinen Kalender [**importieren**](https://calendar.google.com/calendar/ical/pbl9rnt38shv11a8d1p8q404ac%40group.calendar.google.com/private-4d3bf9a42eefdcf076f25d1c1df39032/basic.ics).
+
+## Regelmäßige Trainings
+Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
+
+## Workshops und Aktionen
+
+Am **28.10. und 04.11.** gibt es die Möglichkeit, kostenlos in unser Training zu schnuppern. Wenn du bei den [**Schnupperstunden**](https://www.facebook.com/events/269810394351549/) dabei sein möchtest, registriere dich einfach in [**diesem Formular**](https://forms.gle/UyuXNFUgTNX4GhJ37).
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPerformance-Team-M%25C3%25BCnster-Ballett-und-Lyrical-Dance-104566531110275%2F&tabs=events&width=400&height=400&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
+
+### Auftritte
+Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
+
