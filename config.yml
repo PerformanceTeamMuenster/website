@@ -1,5 +1,5 @@
 title: Performance Team Münster
-fetchPrefix: https://raw.githubusercontent.com/PerformanceTeamMuenster/website/master
+fetchPrefix: https://performanceteammuenster.github.io/website
 pagesPrefix: Content
 primary-color: #732847
 secondary-color: #d4c5db
