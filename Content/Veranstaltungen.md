@@ -5,16 +5,14 @@
 Unsere Termine kannst du in deinen Kalender [**importieren**](https://calendar.google.com/calendar/ical/pbl9rnt38shv11a8d1p8q404ac%40group.calendar.google.com/private-4d3bf9a42eefdcf076f25d1c1df39032/basic.ics).
 
 ## Regelmäßige Trainings
-Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster.
+Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster. Aufgrund der Corona-Pandemie finden die Trainings im November über Zoom statt.
 
 ## Workshops und Aktionen
 
-Am **28.10. und 04.11.** gibt es die Möglichkeit, kostenlos in unser Training zu schnuppern. Wenn du bei den [**Schnupperstunden**](https://www.facebook.com/events/269810394351549/) dabei sein möchtest, registriere dich einfach in [**diesem Formular**](https://forms.gle/UyuXNFUgTNX4GhJ37).
-
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FPerformance-Team-M%25C3%25BCnster-Ballett-und-Lyrical-Dance-104566531110275%2F&tabs=events&width=400&height=400&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="400" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
+Neuigkeiten zum Kennenlernwochenende folgen bald.
 Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
 
 ### Auftritte
 Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
+Aktuell laufen die Vorbereitungen für den deutschen Ballettwettbewerb und den Videowettbewerb des bfkm.
 
