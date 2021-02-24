@@ -5,7 +5,7 @@
 Unsere Termine kannst du in deinen Kalender [**importieren**](https://calendar.google.com/calendar/ical/pbl9rnt38shv11a8d1p8q404ac%40group.calendar.google.com/private-4d3bf9a42eefdcf076f25d1c1df39032/basic.ics).
 
 ## Regelmäßige Trainings
-Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster. Aufgrund der Corona-Pandemie finden die Trainings im November über Zoom statt.
+Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster. Aufgrund der Corona-Pandemie finden die Trainings aktuell über Zoom statt.
 
 ## Workshops und Aktionen
 
