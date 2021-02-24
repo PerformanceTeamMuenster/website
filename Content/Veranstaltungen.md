@@ -10,9 +10,9 @@ Wir treffen uns immer **mittwochs von 18 bis 20 Uhr** im [**Lehrgebäude**](http
 ## Workshops und Aktionen
 
 Neuigkeiten zum Kennenlernwochenende folgen bald.
-Im Wintersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
+Im Sommersemester besuchen uns externe Dozent\*innen in Münster, die Workshops zu Themen aus unterschiedlichen Tanzstilen unterrichten. Die Termine werden noch bekannt gegeben.
 
 ### Auftritte
-Wegen Corona musste unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
-Aktuell laufen die Vorbereitungen für den deutschen Ballettwettbewerb und den Videowettbewerb des bfkm.
+Wegen Corona musste 2020 unsere Sommeraufführung "Die Welle" leider ausfallen. Wir hoffen, dass es hier bald gute Neuigkeiten gibt :)
+Aktuell laufen die Vorbereitungen für ein Video-Tanzprojekt, mit dem wir an einem Wettbewerb teilnehmen. Das Ergebnis seht ihr bald auf unserer Homepage, YouTube, Facebook und Instagram.
 
