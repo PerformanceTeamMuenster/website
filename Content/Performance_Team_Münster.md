@@ -12,7 +12,7 @@
 ![Facebook][fbicon] **[Performance Team Münster][facebook]**
 
 ## Über unser Team
-Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [**Universität Münster**][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen modernder und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
+Wir sind eine Hochschulgruppe für Ballett und Lyrical Dance an der [**Universität Münster**][wwu]. In unseren Choreographien und im Training vereinen wir klassische Balletttechnik mit den Elementen moderner und lyrischer Choreographie. Wir vertanzen die Geschichten, die Songs erzählen, und die Gefühle, die sie dabei in uns auslösen.  
 Seit 2017 trainieren wir ein- bis zweimal wöchentlich und sind dabei zu einem starken Team zusammengewachsen. Gemeinsam nehmen wir an Tanzwettbewerben teil, veranstalten Workshops zu verschiedenen Tanzstilen und organisieren eigene Aufführungen.
 
 [logo]: https://i.imgur.com/Zv1LXxa.png =100%x*
