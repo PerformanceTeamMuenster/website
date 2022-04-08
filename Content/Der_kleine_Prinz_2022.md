@@ -1,6 +1,6 @@
 ![Der kleine Prinz][banner]
 
-> *“Man sieht nur mit dem Herzen gut, das Wesentliche ist für die Augen unsichtbar.”*
+<center>*“Man sieht nur mit dem Herzen gut, das Wesentliche ist für die Augen unsichtbar.”*</center>
 
 **Wir möchten euch mitnehmen auf die Reise des kleinen Prinzen. Auf seinem Flug von Planet zu Planet erlebt er die wahre Bedeutung von Freundschaft und Liebe und lernt einen Piloten kennen, der auf seiner Expedition das Kind in sich wieder findet.**
 
