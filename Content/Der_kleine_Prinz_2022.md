@@ -14,6 +14,6 @@ Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kin
 
 Weil auch und besonders Patient*innen der Uniklinik zur Aufführung eingeladen sind, wird die Veranstaltung unter besonderen Vorsichtsmaßnahmen (Zutritt 3G, Maskenpflicht) stattfinden. Die Größe des Publikums wird an die aktuelle Infektionslage angepasst. 
 
-[banner]: https://ibb.co/qrcFfzv =100%x*
+[banner]: https://i.ibb.co/qrcFfzv/Facebook-Event-Titelbild-Druckschrift.png =100%x*
 [Kinderkrebshilfe]: https://www.kinderkrebshilfe-muenster.de/
 [Stammzellspende]: https://klinikum.uni-muenster.de/index.php?id=stammzellspenderdatei
