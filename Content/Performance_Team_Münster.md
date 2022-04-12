@@ -1,6 +1,6 @@
 [![Der kleine Prinz][dkp-banner]][dkp]
 
-[dkp-banner]: https://i.ibb.co/JvvTDk5/Banner-schmal.png" =100%x*
+[dkp-banner]: https://ibb.co/MDVdr9p =100%x*
 [dkp]: #Der_kleine_Prinz_2022
 
 # Performance Team Münster
