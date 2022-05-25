@@ -12,8 +12,9 @@ Das Performance Team Münster ist eine Hochschulgruppe für Ballett und Lyrical 
 
 Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kinderkrebshilfe Münster][Kinderkrebshilfe], sowie eine Typisierungsaktion der [Stammzellspenderdatei Münster][Stammzellspende]. So kann man zwischendurch mit einem Wattestäbchen oder einem Stück Kuchen im Mund etwas Gutes tun.
 
-Weil auch und besonders Patient*innen der Uniklinik zur Aufführung eingeladen sind, wird die Veranstaltung unter besonderen Vorsichtsmaßnahmen (Zutritt 3G, Maskenpflicht) stattfinden. Die Größe des Publikums wird an die aktuelle Infektionslage angepasst. 
+Weil auch und besonders Patient*innen der Uniklinik zur Aufführung eingeladen sind, wird die Veranstaltung unter besonderen Vorsichtsmaßnahmen (Zutritt 3G, Maskenpflicht) stattfinden. Die Größe des Publikums wird an die aktuelle Infektionslage angepasst. Alle Infos gibt es in unserem [Hygienekonzept][Hygienekonzept].
 
+[Hygienekonzept]: https://PerformanceTeamMuenster.github.io/website/Hygienekonzept.html
 [banner]: https://i.ibb.co/VqzpZds/Facebook-Event-Titelbild-Druckschrift.png =100%x*
 [Kinderkrebshilfe]: https://www.kinderkrebshilfe-muenster.de/
 [Stammzellspende]: https://klinikum.uni-muenster.de/index.php?id=stammzellspenderdatei
