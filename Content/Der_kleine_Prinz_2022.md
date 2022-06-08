@@ -12,9 +12,28 @@ Das Performance Team Münster ist eine Hochschulgruppe für Ballett und Lyrical 
 
 Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kinderkrebshilfe Münster][Kinderkrebshilfe], sowie eine Typisierungsaktion der [Stammzellspenderdatei Münster][Stammzellspende]. So kann man zwischendurch mit einem Wattestäbchen oder einem Stück Kuchen im Mund etwas Gutes tun.
 
+| Maike von Bobart      | Der kleine Prinz          |
+| Marie-Therese Niemann | Die Erzählerin            |
+| Marlène Kraus         | Der Fuchs                 |
+| Maike Tenbusch        | Die Schlange              |
+| Lea Kurzhals          | Die Rose                  |
+| Anna-Lena Foydl       | Die Königin               |
+| Alina Griebel         | Die Eitle                 |
+| Hannah Laturnus       | Die Geschäftsfrau         |
+| Anna Kintrup          | Die Laternenanzünderin    |
+| Anastasiia Lynnyk     | Die Säuferin              |
+| Anna Lena Bals        | Der Stern                 |
+| Riccarda Santalucia   | Die Geographin            |
+|-----------------------|---------------------------|
+| Yasemin Töre          | Choreographie             |
+| Mirko Westermeier     | Animation, Kamera, Design |
+
+Mehr zu unserem **Cast** gibt es in unserem [virtuellen Programmheft][virtuelles Programmheft].
+
 Weil auch und besonders Patient*innen der Uniklinik zur Aufführung eingeladen sind, wird die Veranstaltung unter besonderen Vorsichtsmaßnahmen (Zutritt nach Besuchsregelung des UKM, Maskenpflicht) stattfinden. Die Größe des Publikums wird an die aktuelle Infektionslage angepasst. Alle Infos gibt es in unserem [Hygienekonzept][Hygienekonzept].
 
 [Hygienekonzept]: https://PerformanceTeamMuenster.github.io/website/Hygienekonzept.html
 [banner]: https://i.ibb.co/VqzpZds/Facebook-Event-Titelbild-Druckschrift.png =100%x*
 [Kinderkrebshilfe]: https://www.kinderkrebshilfe-muenster.de/
 [Stammzellspende]: https://klinikum.uni-muenster.de/index.php?id=stammzellspenderdatei
+[virtuelles Programmheft]: https://www.facebook.com/media/set/?vanity=performanceteamms&set=a.540557070844550
