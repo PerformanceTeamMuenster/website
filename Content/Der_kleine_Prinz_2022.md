@@ -12,20 +12,20 @@ Das Performance Team Münster ist eine Hochschulgruppe für Ballett und Lyrical 
 
 Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kinderkrebshilfe Münster][Kinderkrebshilfe], sowie eine Typisierungsaktion der [Stammzellspenderdatei Münster][Stammzellspende]. So kann man zwischendurch mit einem Wattestäbchen oder einem Stück Kuchen im Mund etwas Gutes tun.
 
-| Tänzerin              | Rolle                  |
-|-----------------------|------------------------|
-| Maike von Bobart      | Der kleine Prinz       |
-| Marie-Therese Niemann | Die Erzählerin         |
-| Marlène Kraus         | Der Fuchs              |
-| Maike Tenbusch        | Die Schlange           |
-| Lea Kurzhals          | Die Rose               |
-| Anna-Lena Foydl       | Die Königin            |
-| Alina Griebel         | Die Eitle              |
-| Hannah Laturnus       | Die Geschäftsfrau      |
-| Anna Kintrup          | Die Laternenanzünderin |
-| Anastasiia Lynnyk     | Die Säuferin           |
-| Anna Lena Bals        | Der Stern              |
-| Riccarda Santalucia   | Die Geographin         |
+| **Tänzerin**          |   | **Rolle**              |
+|-----------------------|---|------------------------|
+| Maike von Bobart      |   | Der kleine Prinz       |
+| Marie-Therese Niemann |   | Die Erzählerin         |
+| Marlène Kraus         |   | Der Fuchs              |
+| Maike Tenbusch        |   | Die Schlange           |
+| Lea Kurzhals          |   | Die Rose               |
+| Anna-Lena Foydl       |   | Die Königin            |
+| Alina Griebel         |   | Die Eitle              |
+| Hannah Laturnus       |   | Die Geschäftsfrau      |
+| Anna Kintrup          |   | Die Laternenanzünderin |
+| Anastasiia Lynnyk     |   | Die Säuferin           |
+| Anna Lena Bals        |   | Der Stern              |
+| Riccarda Santalucia   |   | Die Geographin         |
 
 Mehr zu unserem **Cast** gibt es in unserem [virtuellen Programmheft][virtuelles Programmheft]. Mirko Westermeier verdanken wir Teile der Musik, die phantasievollen Planetenanimationen, das Layout unseres Plakats und den Film, den es am Ende von unserer Aufführung geben wird. Von Yasemin Töre stammen die Idee und die Choreographien.
 
