@@ -12,22 +12,24 @@ Das Performance Team Münster ist eine Hochschulgruppe für Ballett und Lyrical 
 
 Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kinderkrebshilfe Münster][Kinderkrebshilfe], sowie eine Typisierungsaktion der [Stammzellspenderdatei Münster][Stammzellspende]. So kann man zwischendurch mit einem Wattestäbchen oder einem Stück Kuchen im Mund etwas Gutes tun.
 
-| **Tänzerin**          |   | **Rolle**              |
-|-----------------------|---|------------------------|
-| Maike von Bobart      |   | Der kleine Prinz       |
-| Marie-Therese Niemann |   | Die Erzählerin         |
-| Marlène Kraus         |   | Der Fuchs              |
-| Maike Tenbusch        |   | Die Schlange           |
-| Lea Kurzhals          |   | Die Rose               |
-| Anna-Lena Foydl       |   | Die Königin            |
-| Alina Griebel         |   | Die Eitle              |
-| Hannah Laturnus       |   | Die Geschäftsfrau      |
-| Anna Kintrup          |   | Die Laternenanzünderin |
-| Anastasiia Lynnyk     |   | Die Säuferin           |
-| Anna Lena Bals        |   | Der Stern              |
-| Riccarda Santalucia   |   | Die Geographin         |
+| **Tänzerin**          | **Rolle**              |                                                                                                                                                    |
+|-----------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Maike von Bobart      | Der kleine Prinz       | <a href="https://ibb.co/sJXm1VB"><img src="https://i.ibb.co/sJXm1VB/Prinz-Portrait-2.jpg" alt="Prinz-Portrait-2" border="0"></a>                   |
+| Marie-Therese Niemann | Die Erzählerin         |                                                                                                                                                    |
+| Marlène Kraus         | Der Fuchs              | <a href="https://ibb.co/rMXk54y"><img src="https://i.ibb.co/rMXk54y/Fuchs-Portrait-2.jpg" alt="Fuchs-Portrait-2" border="0"></a>                   |
+| Maike Tenbusch        | Die Schlange           | <a href="https://ibb.co/BGCsRKt"><img src="https://i.ibb.co/BGCsRKt/Schlange-Portrait-1.jpg" alt="Schlange-Portrait-1" border="0"></a>             |
+| Lea Kurzhals          | Die Rose               |                                                                                                                                                    |
+| Anna-Lena Foydl       | Die Königin            |                                                                                                                                                    |
+| Alina Griebel         | Die Eitle              |                                                                                                                                                    |
+| Hannah Laturnus       | Die Geschäftsfrau      | <a href="https://ibb.co/SskJrdc"><img src="https://i.ibb.co/SskJrdc/Gesch-ftsmann-Portrait.jpg" alt="Gesch-ftsmann-Portrait" border="0"></a>       |
+| Anna Kintrup          | Die Laternenanzünderin | <a href="https://ibb.co/sy4wfq0"><img src="https://i.ibb.co/sy4wfq0/Laternenanz-nder-Portrait.jpg" alt="Laternenanz-nder-Portrait" border="0"></a> |
+| Anastasiia Lynnyk     | Die Säuferin           |                                                                                                                                                    |
+| Riccarda Santalucia   | Die Geographin         | <a href="https://ibb.co/pxQjLzT"><img src="https://i.ibb.co/pxQjLzT/Geograph-Portrait-2.jpg" alt="Geograph-Portrait-2" border="0"></a>             |
+|                       |                        |                                                                                                                                                    |
+| Mirko Westermeier     | Video, Design, Technik | <a href="https://ibb.co/WxT927P"><img src="https://i.ibb.co/WxT927P/Mirko-Portrait.jpg" alt="Mirko-Portrait" border="0"></a>                       |
+| Yasemin Töre          | Choreographie, Idee    | <a href="https://ibb.co/5jKR09G"><img src="https://i.ibb.co/5jKR09G/Yasi-Portrait.jpg" alt="Yasi-Portrait" border="0"></a>                         |
 
-Mehr zu unserem **Cast** gibt es in unserem [virtuellen Programmheft][virtuelles Programmheft]. Mirko Westermeier verdanken wir Teile der Musik, die phantasievollen Planetenanimationen, das Layout unseres Plakats und den Film, den es am Ende von unserer Aufführung geben wird. Von Yasemin Töre stammen die Idee und die Choreographien.
+Mehr zu unserem **Cast** gibt es in unserem [virtuellen Programmheft][virtuelles Programmheft].
 
 Weil auch und besonders Patient*innen der Uniklinik zur Aufführung eingeladen sind, wird die Veranstaltung unter besonderen Vorsichtsmaßnahmen (Zutritt nach Besuchsregelung des UKM, Maskenpflicht) stattfinden. Die Größe des Publikums wird an die aktuelle Infektionslage angepasst. Alle Infos gibt es in unserem [Hygienekonzept][Hygienekonzept].
 
