@@ -12,6 +12,7 @@ Das Performance Team Münster ist eine Hochschulgruppe für Ballett und Lyrical 
 
 Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kinderkrebshilfe Münster][Kinderkrebshilfe], sowie eine Typisierungsaktion der [Stammzellspenderdatei Münster][Stammzellspende]. So kann man zwischendurch mit einem Wattestäbchen oder einem Stück Kuchen im Mund etwas Gutes tun.
 
+|-----------------------|---------------------------|
 | Maike von Bobart      | Der kleine Prinz          |
 | Marie-Therese Niemann | Die Erzählerin            |
 | Marlène Kraus         | Der Fuchs                 |
@@ -24,7 +25,7 @@ Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kin
 | Anastasiia Lynnyk     | Die Säuferin              |
 | Anna Lena Bals        | Der Stern                 |
 | Riccarda Santalucia   | Die Geographin            |
-|-----------------------|---------------------------|
+|                       |                           |
 | Yasemin Töre          | Choreographie             |
 | Mirko Westermeier     | Animation, Kamera, Design |
 
