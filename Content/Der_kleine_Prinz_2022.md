@@ -26,7 +26,7 @@ Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten der [Kin
 | **Anastasiia Lynnyk**<br>Die Säuferin | <a href="https://ibb.co/kyRS51S"><img src="https://i.ibb.co/kyRS51S/1654709354871.jpg" alt="1654709354871" border="0"></a> | **Riccarda Santalucia**<br>Die Geographin | <a href="https://ibb.co/pxQjLzT"><img src="https://i.ibb.co/pxQjLzT/Geograph-Portrait-2.jpg" alt="Geograph-Portrait-2" border="0"></a> |
 | **All of us**<br>Eröffnungsband | <a href="https://ibb.co/k4g5jSf"><img src="https://i.ibb.co/k4g5jSf/Logo-All-of-us.webp" alt="Logo-All-of-us" border="0"></a> |**Illustre Runde**<br>Live-Illustration | <a href="https://ibb.co/BTq0WVG"><img src="https://i.ibb.co/BTq0WVG/Logo-Illustre-Runde.png" alt="Logo-Illustre-Runde" border="0"></a>|
 | | | |
-| **Mirko Westermeier**<br>VFS, Kamera u.a. Computerkram | <a href="https://ibb.co/WxT927P"><img src="https://i.ibb.co/WxT927P/Mirko-Portrait.jpg" alt="Mirko-Portrait" border="0"></a> | **Yasemin Töre**<br>Choreographie, Idee | <a href="https://ibb.co/5jKR09G"><img src="https://i.ibb.co/5jKR09G/Yasi-Portrait.jpg" alt="Yasi-Portrait" border="0"></a> |
+| **Mirko Westermeier**<br>VFX, Kamera u.a. Computerkram | <a href="https://ibb.co/WxT927P"><img src="https://i.ibb.co/WxT927P/Mirko-Portrait.jpg" alt="Mirko-Portrait" border="0"></a> | **Yasemin Töre**<br>Choreographie, Idee | <a href="https://ibb.co/5jKR09G"><img src="https://i.ibb.co/5jKR09G/Yasi-Portrait.jpg" alt="Yasi-Portrait" border="0"></a> |
 
 Mehr zu unserem **Cast** gibt es in unserem [virtuellen Programmheft][virtuelles Programmheft].
 
