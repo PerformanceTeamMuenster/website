@@ -1,6 +1,5 @@
 # Mittrainieren
-Wir treffen uns immer **mittwochs von 18:30 bis 20:30 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster. Unsere Trainings finden aktuell zusätzlich auch über [**Zoom**](https://wwu.zoom.us/j/92069006725) statt.
-Du kannst jederzeit live oder digital in eins unserer Trainings schnuppern.
+Wir treffen uns immer **mittwochs von 18:30 bis 20:30 Uhr** im [**Lehrgebäude**](https://goo.gl/maps/1WRbgN1Bch9C5h628) der Uniklinik Münster. Du kannst jederzeit in eins unserer Trainings schnuppern.
 
 # Dabei Sein
 
