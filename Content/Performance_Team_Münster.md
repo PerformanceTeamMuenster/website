@@ -1,6 +1,6 @@
 [![Peter Pan 2024][PP-banner]][PP]
 
-[PP-banner]: https://i.ibb.co/7GFrH31/Banner-Peter-Pan.png
+[PP-banner]: https://i.ibb.co/7GFrH31/Banner-Peter-Pan.png =100%x*
 [PP]: #Peter_Pan_2024
 
 # Performance Team Münster
