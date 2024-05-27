@@ -31,7 +31,7 @@ Der Eintritt ist frei. In der Pause gibt es ein Spenden-Café zugunsten von [Her
 
 Mehr zu unserem **Cast** gibt es in unserem [virtuellen Programmheft][virtuelles Programmheft].
 
-[banner]: <a href="https://ibb.co/rZJ5gBw"><img src="https://i.ibb.co/7GFrH31/Banner-Peter-Pan.png" alt="Banner-Peter-Pan" border="0"></a>
+[banner]:https://i.ibb.co/7GFrH31/Banner-Peter-Pan.png
 [Kinderherzen]: https://herzkranke-kinder-muenster.de/
 [Stammzellspende]: https://klinikum.uni-muenster.de/index.php?id=stammzellspenderdatei
 [Ruki]: https://www.instagram.com/rukiandmusic?igsh=MWRzM2I0am05MGluNQ==
