@@ -1,7 +1,7 @@
-[![Der kleine Prinz][dkp-banner]][dkp]
+[![Peter Pan 2024][PP-banner]][PP]
 
-[dkp-banner]: https://i.ibb.co/QFN0LXn/Banner-schmal-Druckschrift.png =100%x*
-[dkp]: #Der_kleine_Prinz_2022
+[PP-banner]: <a href="https://ibb.co/rZJ5gBw"><img src="https://i.ibb.co/7GFrH31/Banner-Peter-Pan.png" alt="Banner-Peter-Pan" border="0"></a>
+[PP]: #Peter_Pan_2024
 
 # Performance Team Münster
 
