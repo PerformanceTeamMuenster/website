@@ -2,7 +2,7 @@
 
 <center>*“Zweiter Stern rechts und dann immer geradeaus bis zum Morgen!”*</center>
 
-**In Ballettschläppchen fliegen wir in das Land zwischen Schlafen und Wachen, wo deine Träume noch bei uns sind, wo uns Feen auf der Nase herumtanzen und Kinder niemals erwachsen werden. Kommst du mit?**
+**In Ballettschläppchen fliegen wir in das Land zwischen Schlafen und Wachen, wo unsere Träume noch bei uns sind, wo uns Feen auf der Nase herumtanzen und Kinder niemals erwachsen werden. Kommst du mit?**
 
 Ballett lässt uns träumen, es lässt uns fliegen und es fängt uns auf. Es ist wie dafür gemacht, diese Geschichte von Fern- und Heimweh zu erzählen. In unserer eigenen Interpretation von Peter Pan tanzen wir zu bekannten Melodien von Tschaikowsky, Minkus und Delibes, um J. M. Barries Figuren zum Leben zu erwecken.
 Für alle großen und kleinen Kinder und alle, die niemals erwachsen werden, erzählen wir die Geschichte der Darlings und ihrer Reise nach Nimmerland: Wendy Darling träumt schon lange davon, eines Tages mit Peter Pan nach Nimmerland zu fliegen. Jeden Abend erzählt sie ihren Geschwistern Geschichten vom gefährlichen Kapitän Hook und seiner Piratenbande, von wunderschönen Meerjungfrauen, von funkelnden Feen und natürlich von Peter Pan und seinen verlorenen Jungs. Als eines nachts erst eine freche kleine Fee und dann Peter Pan selbst im Kinderzimmer nach Peters Schatten suchen, können die Darlings ihr Glück kaum fassen. Sie helfen Peter Pan, sich wieder mit seinem Schatten zu verbinden. Zum Dank bringt Peter ihnen das Fliegen bei und nimmt sie mit ins fantastische Nimmerland, wo Kinder niemals erwachsen werden müssen.
